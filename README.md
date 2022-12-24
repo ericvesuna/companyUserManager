@@ -10,3 +10,7 @@ To setup the project on your system follow the below steps:-
 - Create a copy of .env.example file.
 - Update the .env files with the database name and credentials.
 - Run the migration command.  
+
+## Project Details
+
+On 'Home' page have added the count of users and companies currently present along with link to redirect to that page.
